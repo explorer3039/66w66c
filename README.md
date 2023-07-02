@@ -1,4 +1,4 @@
-# 66w66c
+# 66w66b
 A Minecraft creepy version that made by myself, continued the 66w66a project
 
 自己做的一个mc阴间版本，以继续开发66w66a
